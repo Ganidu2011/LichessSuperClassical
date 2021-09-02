@@ -1,0 +1,2 @@
+# LichessSuperClassical
+Official LichessSuperClassical web
